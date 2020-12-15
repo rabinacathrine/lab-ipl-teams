@@ -1,0 +1,24 @@
+img {
+  width: 200px;
+}
+
+form {
+  align-self: flex-start;
+}
+
+.contacts {
+  margin: auto;
+  display: flex;
+  width: 80%;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  /*background-color: gray;*/
+}
+
+ul {
+  list-style-type: none;
+}
+li {
+  margin-top: 20px;
+  width: 30%;
+}
